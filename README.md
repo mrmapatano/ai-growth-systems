@@ -1,6 +1,6 @@
 # AI Growth Systems
 
-Production AI systems I built to run [Mapatano & Company](https://mapatanocompany.com), a B2B growth agency serving owner-operated trades businesses — and to power the fulfillment layer of the [Pre-Skilling Institute](https://www.linkedin.com/in/abraham-mapatano), a nonprofit workforce institute I founded at Colorado State University.
+Production AI systems I built to run [Mapatano & Company](https://mapatanoandcompany.com), a B2B growth agency serving owner-operated trades businesses — and to power the fulfillment layer of the [Pre-Skilling Institute](https://www.linkedin.com/in/abraham-mapatano), a nonprofit workforce institute I founded at Colorado State University.
 
 These aren't demos. They run the business: sourcing leads, scrubbing them for compliance, AI-researching every prospect, and feeding a live SDR team.
 
